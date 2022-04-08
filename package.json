@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "test project with node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "baraa aldomani",
+  "license": "ISC",
+  "dependencies": {
+    "d3-random": "^3.0.1",
+    "i": "^0.3.7",
+    "mssql": "^8.0.2",
+    "npm": "^8.6.0",
+    "random": "^3.0.6",
+    "seedrandom": "^3.0.5",
+    "underscore": "^1.13.2"
+  }
+}
